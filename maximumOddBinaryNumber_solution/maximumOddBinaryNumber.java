@@ -1,6 +1,7 @@
-//import java.util.*;
-
+package maximumOddBinaryNumber_solution;
 class Solution {
+    // Runtime 1 ms
+    // Beats 100.00% of users with Java
     public static String maximumOddBinaryNumber(String s) {
         // Count the number of '1's in the input string
         int onesCount = 0;
@@ -30,12 +31,5 @@ class Solution {
         }
 
         return result.toString();
-    }
-
-    public static void main(String[] args) {
-        // Runtime 1 ms
-        // Beats 100.00% of users with Java
-        String res = maximumOddBinaryNumber("010");
-        System.out.println(res);
     }
 }
