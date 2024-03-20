@@ -28,5 +28,5 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Telegram: https://t.me/paster31
-Twitter: https://x.com/sentient_6eing/status/1648671313836294144?s=20
+- Telegram: https://t.me/paster31
+- Twitter: https://x.com/sentient_6eing/status/1648671313836294144?s=20
