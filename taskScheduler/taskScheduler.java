@@ -16,7 +16,7 @@ class Solution {
             m.put(task, m.getOrDefault(task, 0) + 1);
         }
 
-        int maxFrequency = Collections.max(m.values()); // Тепер цей рядок знаходиться після заповнення мапи
+        int maxFrequency = Collections.max(m.values());
         
         int maxCount = Collections.frequency(m.values(), maxFrequency);
 
